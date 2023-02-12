@@ -1,5 +1,7 @@
 # git-Git-Hub-Errors
 
+<img align="center" alt="Coding"  src="https://raw.githubusercontent.com/vishvadeep-chauhan/Git-and-GitHub-Errors/master/Colorful%20Shapes%20Header%20Banner.png"
+
 # Git and GitHub Blog
  Welcome to our Git and GitHub blog! This blog is dedicated to providing you with information and tutorials on using Git and GitHub to manage and collaborate on code.
 
